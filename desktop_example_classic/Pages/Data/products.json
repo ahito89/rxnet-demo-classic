@@ -1,0 +1,6002 @@
+[
+  {
+    "make": "Buick",
+    "model": "Skylark",
+    "year": 1994,
+    "price": "$15723.65"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 2008,
+    "price": "$10113.03"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 2005,
+    "price": "$11214.23"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "year": 2007,
+    "price": "$10938.08"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1990,
+    "price": "$12303.38"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra",
+    "year": 2008,
+    "price": "$15497.47"
+  },
+  {
+    "make": "Saturn",
+    "model": "S-Series",
+    "year": 1994,
+    "price": "$19501.00"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "HHR Panel",
+    "year": 2006,
+    "price": "$11871.21"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "year": 2000,
+    "price": "$12833.60"
+  },
+  {
+    "make": "Dodge",
+    "model": "Viper",
+    "year": 1998,
+    "price": "$13293.80"
+  },
+  {
+    "make": "Maserati",
+    "model": "GranTurismo",
+    "year": 2012,
+    "price": "$22192.99"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "W126",
+    "year": 1981,
+    "price": "$22545.69"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 3500",
+    "year": 2000,
+    "price": "$18261.77"
+  },
+  {
+    "make": "Buick",
+    "model": "Terraza",
+    "year": 2006,
+    "price": "$17049.36"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Freelander",
+    "year": 2011,
+    "price": "$21951.52"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2002,
+    "price": "$18193.79"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Xtra",
+    "year": 1997,
+    "price": "$23172.30"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Hombre Space",
+    "year": 2000,
+    "price": "$15596.75"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 1993,
+    "price": "$23865.51"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado Hybrid",
+    "year": 2006,
+    "price": "$21847.76"
+  },
+  {
+    "make": "Buick",
+    "model": "Electra",
+    "year": 1989,
+    "price": "$22461.45"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 1983,
+    "price": "$21510.79"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Seville",
+    "year": 1996,
+    "price": "$17324.11"
+  },
+  {
+    "make": "Mazda",
+    "model": "B-Series",
+    "year": 2009,
+    "price": "$20447.38"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "year": 1991,
+    "price": "$23710.02"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Horizon",
+    "year": 1978,
+    "price": "$24956.99"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC60",
+    "year": 2011,
+    "price": "$14660.46"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "year": 2004,
+    "price": "$14156.93"
+  },
+  {
+    "make": "Maybach",
+    "model": "Landaulet",
+    "year": 2010,
+    "price": "$23147.37"
+  },
+  {
+    "make": "Buick",
+    "model": "Enclave",
+    "year": 2011,
+    "price": "$15031.16"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazdaspeed 3",
+    "year": 2008,
+    "price": "$13257.48"
+  },
+  {
+    "make": "Buick",
+    "model": "Roadmaster",
+    "year": 1991,
+    "price": "$13153.62"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": 1990,
+    "price": "$24741.37"
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2010,
+    "price": "$19715.16"
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2003,
+    "price": "$24645.05"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana 3500",
+    "year": 2002,
+    "price": "$13656.90"
+  },
+  {
+    "make": "Infiniti",
+    "model": "I",
+    "year": 2000,
+    "price": "$13554.36"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 1996,
+    "price": "$16217.83"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1992,
+    "price": "$21825.47"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Reliant",
+    "year": 1981,
+    "price": "$24965.72"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2006,
+    "price": "$16667.41"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "W201",
+    "year": 1985,
+    "price": "$16338.70"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "year": 2009,
+    "price": "$22816.02"
+  },
+  {
+    "make": "Lexus",
+    "model": "ES",
+    "year": 2007,
+    "price": "$19067.91"
+  },
+  {
+    "make": "Mercury",
+    "model": "Sable",
+    "year": 1995,
+    "price": "$22925.38"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2011,
+    "price": "$17601.19"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": 1995,
+    "price": "$11196.47"
+  },
+  {
+    "make": "Ford",
+    "model": "Econoline E150",
+    "year": 1992,
+    "price": "$16548.20"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana",
+    "year": 2009,
+    "price": "$15602.35"
+  },
+  {
+    "make": "BMW",
+    "model": "1 Series",
+    "year": 2010,
+    "price": "$20681.35"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Montana SV6",
+    "year": 2006,
+    "price": "$15943.85"
+  },
+  {
+    "make": "Acura",
+    "model": "TL",
+    "year": 2007,
+    "price": "$19381.77"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "year": 2009,
+    "price": "$12324.98"
+  },
+  {
+    "make": "Infiniti",
+    "model": "I",
+    "year": 1997,
+    "price": "$10431.53"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "year": 2010,
+    "price": "$22913.65"
+  },
+  {
+    "make": "Acura",
+    "model": "TSX",
+    "year": 2011,
+    "price": "$14064.72"
+  },
+  {
+    "make": "Volvo",
+    "model": "C30",
+    "year": 2011,
+    "price": "$20605.48"
+  },
+  {
+    "make": "Dodge",
+    "model": "Nitro",
+    "year": 2007,
+    "price": "$16923.83"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": 2005,
+    "price": "$13131.48"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "year": 2001,
+    "price": "$21854.18"
+  },
+  {
+    "make": "Ford",
+    "model": "Five Hundred",
+    "year": 2006,
+    "price": "$17299.17"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram",
+    "year": 2003,
+    "price": "$24250.31"
+  },
+  {
+    "make": "BMW",
+    "model": "M",
+    "year": 2001,
+    "price": "$23955.97"
+  },
+  {
+    "make": "Audi",
+    "model": "A6",
+    "year": 2007,
+    "price": "$19382.81"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "riolet",
+    "year": 1992,
+    "price": "$17013.65"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Hombre",
+    "year": 1999,
+    "price": "$12238.96"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GL-Class",
+    "year": 2008,
+    "price": "$22646.49"
+  },
+  {
+    "make": "Nissan",
+    "model": "300ZX",
+    "year": 1995,
+    "price": "$22880.39"
+  },
+  {
+    "make": "Ford",
+    "model": "Fiesta",
+    "year": 2001,
+    "price": "$22486.05"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird Formula",
+    "year": 1999,
+    "price": "$23440.07"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2008,
+    "price": "$11581.42"
+  },
+  {
+    "make": "Dodge",
+    "model": "Neon",
+    "year": 1997,
+    "price": "$20442.59"
+  },
+  {
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "year": 2011,
+    "price": "$22734.04"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKX",
+    "year": 2011,
+    "price": "$10080.79"
+  },
+  {
+    "make": "Toyota",
+    "model": "T100 Xtra",
+    "year": 1997,
+    "price": "$16043.92"
+  },
+  {
+    "make": "Ford",
+    "model": "E250",
+    "year": 2004,
+    "price": "$21002.98"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express",
+    "year": 2008,
+    "price": "$18705.48"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 2011,
+    "price": "$14751.70"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "year": 2001,
+    "price": "$22539.21"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": 1995,
+    "price": "$10328.72"
+  },
+  {
+    "make": "Subaru",
+    "model": "SVX",
+    "year": 1992,
+    "price": "$12174.07"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan",
+    "year": 2004,
+    "price": "$13041.23"
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q",
+    "year": 1992,
+    "price": "$13958.43"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "year": 2005,
+    "price": "$11103.34"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Montana",
+    "year": 2000,
+    "price": "$19798.21"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "year": 1998,
+    "price": "$10320.99"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 2004,
+    "price": "$15903.35"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4",
+    "year": 2012,
+    "price": "$24330.73"
+  },
+  {
+    "make": "Buick",
+    "model": "Enclave",
+    "year": 2010,
+    "price": "$24408.92"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK",
+    "year": 2009,
+    "price": "$23085.20"
+  },
+  {
+    "make": "Spyker",
+    "model": "C8 Spyder",
+    "year": 2004,
+    "price": "$16376.62"
+  },
+  {
+    "make": "Infiniti",
+    "model": "G",
+    "year": 2007,
+    "price": "$22225.96"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 2000,
+    "price": "$18354.99"
+  },
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2004,
+    "price": "$17333.67"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1987,
+    "price": "$16748.86"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "year": 1989,
+    "price": "$12992.27"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Bel Air",
+    "year": 1967,
+    "price": "$17658.08"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Starion",
+    "year": 1989,
+    "price": "$24421.73"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Defender 90",
+    "year": 1997,
+    "price": "$11646.70"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-6",
+    "year": 1994,
+    "price": "$10222.73"
+  },
+  {
+    "make": "Mercury",
+    "model": "Montego",
+    "year": 2007,
+    "price": "$14553.03"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": 2008,
+    "price": "$20746.12"
+  },
+  {
+    "make": "Audi",
+    "model": "Cabriolet",
+    "year": 1997,
+    "price": "$18726.03"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "year": 1996,
+    "price": "$17426.69"
+  },
+  {
+    "make": "Cadillac",
+    "model": "STS",
+    "year": 2007,
+    "price": "$16657.89"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GL-Class",
+    "year": 2010,
+    "price": "$23285.61"
+  },
+  {
+    "make": "Corbin",
+    "model": "Sparrow",
+    "year": 2004,
+    "price": "$10367.11"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana 1500",
+    "year": 2006,
+    "price": "$12580.91"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Breeze",
+    "year": 1997,
+    "price": "$19544.31"
+  },
+  {
+    "make": "Cadillac",
+    "model": "STS",
+    "year": 2011,
+    "price": "$12771.23"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "year": 2002,
+    "price": "$20970.89"
+  },
+  {
+    "make": "Dodge",
+    "model": "D250 Club",
+    "year": 1993,
+    "price": "$19824.21"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "500SL",
+    "year": 1993,
+    "price": "$21425.51"
+  },
+  {
+    "make": "Audi",
+    "model": "100",
+    "year": 1994,
+    "price": "$15008.60"
+  },
+  {
+    "make": "Audi",
+    "model": "80/90",
+    "year": 1988,
+    "price": "$10649.13"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2003,
+    "price": "$16650.40"
+  },
+  {
+    "make": "Volvo",
+    "model": "V50",
+    "year": 2011,
+    "price": "$10492.66"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2002,
+    "price": "$20484.27"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Defender",
+    "year": 1993,
+    "price": "$13570.22"
+  },
+  {
+    "make": "Acura",
+    "model": "RL",
+    "year": 2010,
+    "price": "$22127.28"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Tredia",
+    "year": 1988,
+    "price": "$17309.09"
+  },
+  {
+    "make": "Chrysler",
+    "model": "LHS",
+    "year": 1995,
+    "price": "$20136.55"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 2007,
+    "price": "$21156.62"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 1500",
+    "year": 1999,
+    "price": "$15911.05"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "year": 2001,
+    "price": "$19983.79"
+  },
+  {
+    "make": "Mazda",
+    "model": "626",
+    "year": 1996,
+    "price": "$11075.66"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL65 AMG",
+    "year": 2006,
+    "price": "$14560.15"
+  },
+  {
+    "make": "Dodge",
+    "model": "Intrepid",
+    "year": 2002,
+    "price": "$21354.99"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2000,
+    "price": "$18547.49"
+  },
+  {
+    "make": "Subaru",
+    "model": "XT",
+    "year": 1989,
+    "price": "$17321.70"
+  },
+  {
+    "make": "Ford",
+    "model": "Probe",
+    "year": 1990,
+    "price": "$13382.62"
+  },
+  {
+    "make": "Infiniti",
+    "model": "M",
+    "year": 2007,
+    "price": "$19630.45"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series",
+    "year": 1997,
+    "price": "$10639.24"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2009,
+    "price": "$16859.96"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 1995,
+    "price": "$14966.59"
+  },
+  {
+    "make": "GMC",
+    "model": "1500",
+    "year": 1998,
+    "price": "$22252.84"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 1500",
+    "year": 2006,
+    "price": "$16071.75"
+  },
+  {
+    "make": "Ford",
+    "model": "F350",
+    "year": 2012,
+    "price": "$10138.39"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra",
+    "year": 2000,
+    "price": "$16713.48"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": 2012,
+    "price": "$15473.39"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 1500",
+    "year": 2010,
+    "price": "$15551.30"
+  },
+  {
+    "make": "Aptera",
+    "model": "Typ-1",
+    "year": 2009,
+    "price": "$23189.94"
+  },
+  {
+    "make": "Toyota",
+    "model": "Venza",
+    "year": 2009,
+    "price": "$24586.00"
+  },
+  {
+    "make": "Nissan",
+    "model": "Cube",
+    "year": 2009,
+    "price": "$19469.97"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2006,
+    "price": "$20861.28"
+  },
+  {
+    "make": "Kia",
+    "model": "Spectra",
+    "year": 2006,
+    "price": "$19225.57"
+  },
+  {
+    "make": "BMW",
+    "model": "8 Series",
+    "year": 1993,
+    "price": "$12079.46"
+  },
+  {
+    "make": "Volvo",
+    "model": "S80",
+    "year": 2001,
+    "price": "$21869.88"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "year": 2010,
+    "price": "$18165.05"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mystique",
+    "year": 1998,
+    "price": "$24264.93"
+  },
+  {
+    "make": "Suzuki",
+    "model": "XL-7",
+    "year": 2008,
+    "price": "$17096.70"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "year": 1994,
+    "price": "$11940.47"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Eurovan",
+    "year": 2003,
+    "price": "$20788.82"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Azera",
+    "year": 2006,
+    "price": "$23132.93"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CL-Class",
+    "year": 1999,
+    "price": "$13076.19"
+  },
+  {
+    "make": "Scion",
+    "model": "xB",
+    "year": 2010,
+    "price": "$17766.29"
+  },
+  {
+    "make": "Ford",
+    "model": "Tempo",
+    "year": 1989,
+    "price": "$19968.39"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Discovery Series II",
+    "year": 2001,
+    "price": "$22967.56"
+  },
+  {
+    "make": "Buick",
+    "model": "Century",
+    "year": 1987,
+    "price": "$16145.66"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Solstice",
+    "year": 2007,
+    "price": "$19976.72"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 1997,
+    "price": "$16111.58"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "year": 2004,
+    "price": "$10994.00"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2010,
+    "price": "$21131.75"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2003,
+    "price": "$24088.07"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Axiom",
+    "year": 2002,
+    "price": "$24371.10"
+  },
+  {
+    "make": "Infiniti",
+    "model": "QX",
+    "year": 1999,
+    "price": "$12100.10"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2000,
+    "price": "$24942.07"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 2003,
+    "price": "$11080.22"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Trooper",
+    "year": 1998,
+    "price": "$13110.15"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Scirocco",
+    "year": 1985,
+    "price": "$12440.49"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "year": 1987,
+    "price": "$12616.55"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 1500",
+    "year": 2006,
+    "price": "$19332.53"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon",
+    "year": 2010,
+    "price": "$21647.21"
+  },
+  {
+    "make": "BMW",
+    "model": "M6",
+    "year": 2008,
+    "price": "$17342.69"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caravan",
+    "year": 2009,
+    "price": "$10022.14"
+  },
+  {
+    "make": "Nissan",
+    "model": "350Z",
+    "year": 2005,
+    "price": "$11634.68"
+  },
+  {
+    "make": "Jeep",
+    "model": "Commander",
+    "year": 2006,
+    "price": "$21938.31"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Equus",
+    "year": 2011,
+    "price": "$15214.75"
+  },
+  {
+    "make": "Buick",
+    "model": "Riviera",
+    "year": 1987,
+    "price": "$14180.81"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mighty Max Macro",
+    "year": 1994,
+    "price": "$17902.85"
+  },
+  {
+    "make": "GMC",
+    "model": "3500 Club Coupe",
+    "year": 1993,
+    "price": "$21158.89"
+  },
+  {
+    "make": "Lotus",
+    "model": "Exige",
+    "year": 2009,
+    "price": "$21184.28"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Verona",
+    "year": 2006,
+    "price": "$16039.27"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 1996,
+    "price": "$17161.58"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "year": 2004,
+    "price": "$13191.75"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2010,
+    "price": "$15951.90"
+  },
+  {
+    "make": "Buick",
+    "model": "Rendezvous",
+    "year": 2006,
+    "price": "$13130.20"
+  },
+  {
+    "make": "Jaguar",
+    "model": "X-Type",
+    "year": 2003,
+    "price": "$18902.76"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "year": 1992,
+    "price": "$12745.30"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 1999,
+    "price": "$12768.28"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Vitara",
+    "year": 2003,
+    "price": "$15534.44"
+  },
+  {
+    "make": "Acura",
+    "model": "RL",
+    "year": 1999,
+    "price": "$18838.10"
+  },
+  {
+    "make": "Ford",
+    "model": "Taurus",
+    "year": 2012,
+    "price": "$20718.20"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "year": 2010,
+    "price": "$24235.91"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Sunbird",
+    "year": 1994,
+    "price": "$23183.91"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "year": 2001,
+    "price": "$10370.33"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "year": 2002,
+    "price": "$14163.48"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 2001,
+    "price": "$10917.36"
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2012,
+    "price": "$12044.14"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Daewoo Magnus",
+    "year": 2004,
+    "price": "$15489.86"
+  },
+  {
+    "make": "Ford",
+    "model": "Thunderbird",
+    "year": 1989,
+    "price": "$23988.40"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "year": 2009,
+    "price": "$14322.31"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "G-Series 2500",
+    "year": 1996,
+    "price": "$13926.50"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 2005,
+    "price": "$14249.16"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": 2010,
+    "price": "$19481.27"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "year": 2007,
+    "price": "$20937.73"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 1984,
+    "price": "$17262.48"
+  },
+  {
+    "make": "Ford",
+    "model": "GT",
+    "year": 2006,
+    "price": "$23824.67"
+  },
+  {
+    "make": "Maserati",
+    "model": "Spyder",
+    "year": 2003,
+    "price": "$17049.17"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CL-Class",
+    "year": 2009,
+    "price": "$16132.41"
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2003,
+    "price": "$17902.69"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "S10 Blazer",
+    "year": 1992,
+    "price": "$13364.02"
+  },
+  {
+    "make": "Dodge",
+    "model": "Viper",
+    "year": 1998,
+    "price": "$10126.38"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Truck",
+    "year": 1992,
+    "price": "$17039.57"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caravan",
+    "year": 1994,
+    "price": "$10776.72"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "R-Class",
+    "year": 2007,
+    "price": "$24850.16"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 2000,
+    "price": "$18119.90"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2012,
+    "price": "$10101.38"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Sigma",
+    "year": 1989,
+    "price": "$15920.81"
+  },
+  {
+    "make": "Honda",
+    "model": "Prelude",
+    "year": 1994,
+    "price": "$13339.83"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Solstice",
+    "year": 2006,
+    "price": "$10756.50"
+  },
+  {
+    "make": "Dodge",
+    "model": "Intrepid",
+    "year": 1997,
+    "price": "$11700.22"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Rodeo Sport",
+    "year": 2003,
+    "price": "$12808.46"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 1997,
+    "price": "$22251.65"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 1999,
+    "price": "$16174.67"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monza",
+    "year": 1975,
+    "price": "$20284.94"
+  },
+  {
+    "make": "GMC",
+    "model": "1500",
+    "year": 1995,
+    "price": "$24991.93"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2011,
+    "price": "$18032.37"
+  },
+  {
+    "make": "BMW",
+    "model": "M5",
+    "year": 2002,
+    "price": "$20525.20"
+  },
+  {
+    "make": "Suzuki",
+    "model": "SJ",
+    "year": 1990,
+    "price": "$24622.65"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "year": 1993,
+    "price": "$16105.79"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2005,
+    "price": "$22516.30"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "year": 1994,
+    "price": "$19082.48"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1993,
+    "price": "$15834.22"
+  },
+  {
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2012,
+    "price": "$20014.26"
+  },
+  {
+    "make": "Lotus",
+    "model": "Exige",
+    "year": 2010,
+    "price": "$17093.97"
+  },
+  {
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "year": 1988,
+    "price": "$15787.23"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Escalade",
+    "year": 2003,
+    "price": "$13953.90"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala SS",
+    "year": 1995,
+    "price": "$20501.42"
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco",
+    "year": 1994,
+    "price": "$12573.25"
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2000,
+    "price": "$15278.07"
+  },
+  {
+    "make": "GMC",
+    "model": "Sonoma Club Coupe",
+    "year": 1996,
+    "price": "$18577.24"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2011,
+    "price": "$19906.37"
+  },
+  {
+    "make": "Dodge",
+    "model": "Intrepid",
+    "year": 2004,
+    "price": "$12674.40"
+  },
+  {
+    "make": "Mercury",
+    "model": "Topaz",
+    "year": 1984,
+    "price": "$22124.66"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Continental",
+    "year": 1992,
+    "price": "$13111.17"
+  },
+  {
+    "make": "Volvo",
+    "model": "C30",
+    "year": 2008,
+    "price": "$23129.23"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 2007,
+    "price": "$10859.63"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Bel Air",
+    "year": 1967,
+    "price": "$22889.76"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 2003,
+    "price": "$22730.18"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Tredia",
+    "year": 1986,
+    "price": "$18051.84"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "GL-Class",
+    "year": 2011,
+    "price": "$16405.52"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon",
+    "year": 2012,
+    "price": "$19847.39"
+  },
+  {
+    "make": "Honda",
+    "model": "Insight",
+    "year": 2012,
+    "price": "$19923.65"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 1997,
+    "price": "$20333.06"
+  },
+  {
+    "make": "BMW",
+    "model": "8 Series",
+    "year": 1994,
+    "price": "$13093.74"
+  },
+  {
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 1985,
+    "price": "$20025.72"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon",
+    "year": 2005,
+    "price": "$13114.17"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 1500",
+    "year": 2011,
+    "price": "$23545.21"
+  },
+  {
+    "make": "Honda",
+    "model": "S2000",
+    "year": 2000,
+    "price": "$19722.75"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "year": 2003,
+    "price": "$19485.39"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "year": 1999,
+    "price": "$13214.33"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "year": 2009,
+    "price": "$12963.22"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1999,
+    "price": "$20409.99"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4",
+    "year": 2011,
+    "price": "$22673.26"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2000,
+    "price": "$18309.60"
+  },
+  {
+    "make": "Pontiac",
+    "model": "G6",
+    "year": 2005,
+    "price": "$12082.68"
+  },
+  {
+    "make": "GMC",
+    "model": "Safari",
+    "year": 2001,
+    "price": "$19812.31"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Murciélago",
+    "year": 2002,
+    "price": "$24510.73"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Bravada",
+    "year": 2003,
+    "price": "$16901.50"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 1997,
+    "price": "$21947.74"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon",
+    "year": 2010,
+    "price": "$15967.77"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "year": 2010,
+    "price": "$16228.64"
+  },
+  {
+    "make": "Mercury",
+    "model": "Topaz",
+    "year": 1988,
+    "price": "$12348.08"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 1997,
+    "price": "$14732.49"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tercel",
+    "year": 1992,
+    "price": "$12133.26"
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango",
+    "year": 2007,
+    "price": "$23648.99"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2011,
+    "price": "$18527.43"
+  },
+  {
+    "make": "Subaru",
+    "model": "Loyale",
+    "year": 1992,
+    "price": "$10998.06"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "year": 2011,
+    "price": "$20764.10"
+  },
+  {
+    "make": "Porsche",
+    "model": "944",
+    "year": 1991,
+    "price": "$22046.96"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "year": 2005,
+    "price": "$11491.51"
+  },
+  {
+    "make": "Ford",
+    "model": "F150",
+    "year": 2009,
+    "price": "$17063.00"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2012,
+    "price": "$17753.18"
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2010,
+    "price": "$16211.72"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2005,
+    "price": "$19513.96"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2000,
+    "price": "$21443.84"
+  },
+  {
+    "make": "Ford",
+    "model": "Windstar",
+    "year": 2004,
+    "price": "$23273.97"
+  },
+  {
+    "make": "Volvo",
+    "model": "C70",
+    "year": 1999,
+    "price": "$21182.90"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "2500",
+    "year": 1992,
+    "price": "$14243.16"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "1500",
+    "year": 1999,
+    "price": "$10157.83"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firefly",
+    "year": 1987,
+    "price": "$16993.03"
+  },
+  {
+    "make": "Maybach",
+    "model": "62",
+    "year": 2012,
+    "price": "$24174.15"
+  },
+  {
+    "make": "GMC",
+    "model": "Envoy",
+    "year": 2007,
+    "price": "$14007.61"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": 2000,
+    "price": "$14615.81"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": 2012,
+    "price": "$23478.30"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2006,
+    "price": "$24932.90"
+  },
+  {
+    "make": "Acura",
+    "model": "MDX",
+    "year": 2005,
+    "price": "$18932.68"
+  },
+  {
+    "make": "Infiniti",
+    "model": "G35",
+    "year": 2004,
+    "price": "$14458.05"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "TrailBlazer",
+    "year": 2008,
+    "price": "$17367.72"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1959,
+    "price": "$11948.47"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu Maxx",
+    "year": 2006,
+    "price": "$13355.90"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2001,
+    "price": "$12831.75"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 1998,
+    "price": "$13527.34"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2012,
+    "price": "$19653.09"
+  },
+  {
+    "make": "Dodge",
+    "model": "Stratus",
+    "year": 2000,
+    "price": "$23505.86"
+  },
+  {
+    "make": "Mazda",
+    "model": "RX-8",
+    "year": 2011,
+    "price": "$13683.93"
+  },
+  {
+    "make": "Maserati",
+    "model": "430",
+    "year": 1990,
+    "price": "$13075.90"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 1994,
+    "price": "$18990.88"
+  },
+  {
+    "make": "Dodge",
+    "model": "Nitro",
+    "year": 2007,
+    "price": "$17172.68"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2002,
+    "price": "$16049.32"
+  },
+  {
+    "make": "Mazda",
+    "model": "RX-7",
+    "year": 1985,
+    "price": "$21227.84"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2007,
+    "price": "$11431.78"
+  },
+  {
+    "make": "Buick",
+    "model": "LeSabre",
+    "year": 2002,
+    "price": "$12655.10"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "year": 1998,
+    "price": "$21397.38"
+  },
+  {
+    "make": "Land Rover",
+    "model": "LR2",
+    "year": 2010,
+    "price": "$14954.16"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": 1997,
+    "price": "$22621.01"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Precis",
+    "year": 1993,
+    "price": "$12082.01"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "G-Series G20",
+    "year": 1993,
+    "price": "$13615.71"
+  },
+  {
+    "make": "Mercury",
+    "model": "Tracer",
+    "year": 1989,
+    "price": "$22480.16"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "GTO",
+    "year": 1995,
+    "price": "$19441.91"
+  },
+  {
+    "make": "Ford",
+    "model": "E350",
+    "year": 2012,
+    "price": "$13235.67"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Gallardo",
+    "year": 2005,
+    "price": "$12865.54"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Aurora",
+    "year": 1997,
+    "price": "$11120.58"
+  },
+  {
+    "make": "Buick",
+    "model": "Estate",
+    "year": 1989,
+    "price": "$19871.10"
+  },
+  {
+    "make": "Subaru",
+    "model": "Legacy",
+    "year": 1997,
+    "price": "$21526.98"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 2005,
+    "price": "$14473.85"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban",
+    "year": 2011,
+    "price": "$13883.04"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer Sport Trac",
+    "year": 2008,
+    "price": "$24734.44"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "year": 2001,
+    "price": "$16745.63"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2011,
+    "price": "$20909.31"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 3500",
+    "year": 2002,
+    "price": "$13155.29"
+  },
+  {
+    "make": "Ford",
+    "model": "Falcon",
+    "year": 1966,
+    "price": "$18767.56"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 2010,
+    "price": "$18273.10"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 1993,
+    "price": "$19762.61"
+  },
+  {
+    "make": "Dodge",
+    "model": "Grand Caravan",
+    "year": 2005,
+    "price": "$18046.23"
+  },
+  {
+    "make": "Toyota",
+    "model": "Previa",
+    "year": 1991,
+    "price": "$20268.64"
+  },
+  {
+    "make": "Geo",
+    "model": "Metro",
+    "year": 1997,
+    "price": "$24648.60"
+  },
+  {
+    "make": "Volvo",
+    "model": "S40",
+    "year": 2011,
+    "price": "$23256.14"
+  },
+  {
+    "make": "Honda",
+    "model": "Element",
+    "year": 2004,
+    "price": "$22720.97"
+  },
+  {
+    "make": "Saab",
+    "model": "9-5",
+    "year": 2006,
+    "price": "$22249.64"
+  },
+  {
+    "make": "Lotus",
+    "model": "Esprit",
+    "year": 1991,
+    "price": "$20129.22"
+  },
+  {
+    "make": "Toyota",
+    "model": "Matrix",
+    "year": 2010,
+    "price": "$16344.98"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Sebring",
+    "year": 2003,
+    "price": "$15412.95"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Routan",
+    "year": 2010,
+    "price": "$20481.59"
+  },
+  {
+    "make": "Buick",
+    "model": "Riviera",
+    "year": 1987,
+    "price": "$12816.00"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "R32",
+    "year": 2009,
+    "price": "$11070.81"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 1996,
+    "price": "$22026.79"
+  },
+  {
+    "make": "Bentley",
+    "model": "Arnage",
+    "year": 2007,
+    "price": "$14197.82"
+  },
+  {
+    "make": "Saturn",
+    "model": "S-Series",
+    "year": 1992,
+    "price": "$13641.80"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GT",
+    "year": 2008,
+    "price": "$24294.09"
+  },
+  {
+    "make": "Pontiac",
+    "model": "6000",
+    "year": 1989,
+    "price": "$21515.18"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "year": 1993,
+    "price": "$14354.65"
+  },
+  {
+    "make": "Ford",
+    "model": "Escort",
+    "year": 1988,
+    "price": "$16810.77"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "year": 1992,
+    "price": "$13413.73"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 1999,
+    "price": "$10549.47"
+  },
+  {
+    "make": "BMW",
+    "model": "X3",
+    "year": 2008,
+    "price": "$21225.27"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "year": 2002,
+    "price": "$11844.03"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "SSR",
+    "year": 2004,
+    "price": "$10956.50"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 2005,
+    "price": "$18219.42"
+  },
+  {
+    "make": "Honda",
+    "model": "Element",
+    "year": 2011,
+    "price": "$22562.33"
+  },
+  {
+    "make": "Toyota",
+    "model": "MR2",
+    "year": 2002,
+    "price": "$21172.09"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Avalanche",
+    "year": 2002,
+    "price": "$15924.79"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Wagon B350",
+    "year": 1992,
+    "price": "$20201.60"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Fiero",
+    "year": 1986,
+    "price": "$12102.76"
+  },
+  {
+    "make": "Hummer",
+    "model": "H2",
+    "year": 2006,
+    "price": "$11975.66"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Discovery",
+    "year": 2005,
+    "price": "$15437.00"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 2500",
+    "year": 1996,
+    "price": "$20629.28"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 1500",
+    "year": 1997,
+    "price": "$18230.73"
+  },
+  {
+    "make": "Dodge",
+    "model": "Neon",
+    "year": 1999,
+    "price": "$19330.89"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4",
+    "year": 2008,
+    "price": "$24210.69"
+  },
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": 1993,
+    "price": "$22973.88"
+  },
+  {
+    "make": "Mazda",
+    "model": "B-Series",
+    "year": 1987,
+    "price": "$13429.24"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 1995,
+    "price": "$23871.41"
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2009,
+    "price": "$22493.47"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "year": 2003,
+    "price": "$15681.35"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2012,
+    "price": "$20735.09"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "year": 1999,
+    "price": "$21175.11"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1991,
+    "price": "$14530.30"
+  },
+  {
+    "make": "Nissan",
+    "model": "200SX",
+    "year": 1996,
+    "price": "$15095.27"
+  },
+  {
+    "make": "Ford",
+    "model": "Freestyle",
+    "year": 2005,
+    "price": "$20765.99"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird",
+    "year": 1986,
+    "price": "$18495.54"
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": 2010,
+    "price": "$22409.45"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Sundance",
+    "year": 1994,
+    "price": "$16654.69"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "500SEL",
+    "year": 1992,
+    "price": "$23786.78"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "2500",
+    "year": 1994,
+    "price": "$11989.03"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "year": 1998,
+    "price": "$15657.70"
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 1997,
+    "price": "$24364.16"
+  },
+  {
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "year": 2006,
+    "price": "$18352.93"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazdaspeed 3",
+    "year": 2010,
+    "price": "$18645.81"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon XL 1500",
+    "year": 2008,
+    "price": "$15328.18"
+  },
+  {
+    "make": "Ferrari",
+    "model": "F430",
+    "year": 2006,
+    "price": "$16546.10"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "year": 1996,
+    "price": "$21174.48"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Aztek",
+    "year": 2005,
+    "price": "$15796.28"
+  },
+  {
+    "make": "Mercury",
+    "model": "Monterey",
+    "year": 2004,
+    "price": "$10618.06"
+  },
+  {
+    "make": "Lexus",
+    "model": "LX",
+    "year": 2013,
+    "price": "$21805.75"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "G-Series 3500",
+    "year": 1997,
+    "price": "$10950.69"
+  },
+  {
+    "make": "Land Rover",
+    "model": "LR3",
+    "year": 2006,
+    "price": "$21034.10"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 2500",
+    "year": 2005,
+    "price": "$13384.59"
+  },
+  {
+    "make": "Ford",
+    "model": "Escort",
+    "year": 1999,
+    "price": "$23595.80"
+  },
+  {
+    "make": "Ford",
+    "model": "Falcon",
+    "year": 1967,
+    "price": "$22076.01"
+  },
+  {
+    "make": "Maybach",
+    "model": "Landaulet",
+    "year": 2010,
+    "price": "$19522.50"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CL-Class",
+    "year": 2002,
+    "price": "$12698.43"
+  },
+  {
+    "make": "Ford",
+    "model": "Probe",
+    "year": 1995,
+    "price": "$20783.64"
+  },
+  {
+    "make": "Ford",
+    "model": "Festiva",
+    "year": 1991,
+    "price": "$14629.47"
+  },
+  {
+    "make": "Mazda",
+    "model": "323",
+    "year": 1995,
+    "price": "$17097.78"
+  },
+  {
+    "make": "Lexus",
+    "model": "LX",
+    "year": 2008,
+    "price": "$15812.01"
+  },
+  {
+    "make": "Suzuki",
+    "model": "XL-7",
+    "year": 2003,
+    "price": "$12223.87"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Laser",
+    "year": 1993,
+    "price": "$15953.17"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 1997,
+    "price": "$17437.45"
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": 2009,
+    "price": "$22907.90"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "year": 1992,
+    "price": "$23950.29"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 2002,
+    "price": "$19261.72"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 2012,
+    "price": "$14165.00"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Seville",
+    "year": 2003,
+    "price": "$15505.48"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Solstice",
+    "year": 2009,
+    "price": "$11314.17"
+  },
+  {
+    "make": "Buick",
+    "model": "Lucerne",
+    "year": 2008,
+    "price": "$20929.19"
+  },
+  {
+    "make": "GMC",
+    "model": "Envoy",
+    "year": 2002,
+    "price": "$17241.25"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2000,
+    "price": "$14261.37"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKS",
+    "year": 2010,
+    "price": "$16255.18"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Seville",
+    "year": 1993,
+    "price": "$12018.37"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mystique",
+    "year": 2000,
+    "price": "$10859.25"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Chariot",
+    "year": 1990,
+    "price": "$10135.30"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 2500",
+    "year": 2006,
+    "price": "$18294.47"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "year": 2009,
+    "price": "$22141.83"
+  },
+  {
+    "make": "Scion",
+    "model": "tC",
+    "year": 2005,
+    "price": "$22719.29"
+  },
+  {
+    "make": "Nissan",
+    "model": "200SX",
+    "year": 1998,
+    "price": "$20800.44"
+  },
+  {
+    "make": "Dodge",
+    "model": "Neon",
+    "year": 2002,
+    "price": "$22754.80"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Mark VIII",
+    "year": 1993,
+    "price": "$14197.98"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 2007,
+    "price": "$12805.13"
+  },
+  {
+    "make": "Cadillac",
+    "model": "STS",
+    "year": 2007,
+    "price": "$16308.13"
+  },
+  {
+    "make": "Dodge",
+    "model": "Grand Caravan",
+    "year": 2009,
+    "price": "$21850.93"
+  },
+  {
+    "make": "Audi",
+    "model": "100",
+    "year": 1993,
+    "price": "$13203.31"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback Sport",
+    "year": 2002,
+    "price": "$14273.16"
+  },
+  {
+    "make": "Ford",
+    "model": "F350",
+    "year": 1994,
+    "price": "$11290.93"
+  },
+  {
+    "make": "Pontiac",
+    "model": "6000",
+    "year": 1989,
+    "price": "$20692.00"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2012,
+    "price": "$24445.99"
+  },
+  {
+    "make": "Maybach",
+    "model": "57",
+    "year": 2006,
+    "price": "$12675.65"
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2009,
+    "price": "$16395.21"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": 2009,
+    "price": "$19783.78"
+  },
+  {
+    "make": "Acura",
+    "model": "RL",
+    "year": 2009,
+    "price": "$20780.92"
+  },
+  {
+    "make": "Infiniti",
+    "model": "M",
+    "year": 2004,
+    "price": "$16706.00"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "GTI",
+    "year": 2002,
+    "price": "$12439.25"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "W126",
+    "year": 1983,
+    "price": "$21129.15"
+  },
+  {
+    "make": "Ford",
+    "model": "Tempo",
+    "year": 1987,
+    "price": "$14768.48"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "year": 1998,
+    "price": "$10243.52"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Trans Sport",
+    "year": 1997,
+    "price": "$20446.29"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Expo",
+    "year": 1993,
+    "price": "$11844.42"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2010,
+    "price": "$17642.72"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Aurora",
+    "year": 1995,
+    "price": "$15256.01"
+  },
+  {
+    "make": "Subaru",
+    "model": "Justy",
+    "year": 1994,
+    "price": "$14727.47"
+  },
+  {
+    "make": "Daewoo",
+    "model": "Nubira",
+    "year": 2002,
+    "price": "$19154.65"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-3",
+    "year": 1996,
+    "price": "$16866.33"
+  },
+  {
+    "make": "Subaru",
+    "model": "Leone",
+    "year": 1988,
+    "price": "$20181.82"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "S10 Blazer",
+    "year": 1992,
+    "price": "$12215.90"
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna",
+    "year": 2006,
+    "price": "$22721.62"
+  },
+  {
+    "make": "Ford",
+    "model": "Taurus",
+    "year": 2004,
+    "price": "$24981.49"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental",
+    "year": 2012,
+    "price": "$10220.71"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 1991,
+    "price": "$13078.81"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ",
+    "year": 2007,
+    "price": "$14338.86"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2012,
+    "price": "$15507.39"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1984,
+    "price": "$14404.70"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2011,
+    "price": "$23570.48"
+  },
+  {
+    "make": "Ford",
+    "model": "E250",
+    "year": 2008,
+    "price": "$20652.28"
+  },
+  {
+    "make": "Saturn",
+    "model": "L-Series",
+    "year": 2000,
+    "price": "$18271.90"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Aerio",
+    "year": 2003,
+    "price": "$19162.81"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2000,
+    "price": "$14020.07"
+  },
+  {
+    "make": "Mercury",
+    "model": "Milan",
+    "year": 2011,
+    "price": "$23754.55"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Lumina",
+    "year": 1994,
+    "price": "$21890.77"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 1987,
+    "price": "$10586.29"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana 2500",
+    "year": 2008,
+    "price": "$20207.72"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series",
+    "year": 2007,
+    "price": "$23898.67"
+  },
+  {
+    "make": "Lexus",
+    "model": "IS",
+    "year": 2005,
+    "price": "$19558.61"
+  },
+  {
+    "make": "Ford",
+    "model": "F250",
+    "year": 2007,
+    "price": "$23870.28"
+  },
+  {
+    "make": "Ford",
+    "model": "Aerostar",
+    "year": 1990,
+    "price": "$14511.67"
+  },
+  {
+    "make": "Ford",
+    "model": "E-350 Super Duty",
+    "year": 2006,
+    "price": "$23343.73"
+  },
+  {
+    "make": "Lotus",
+    "model": "Esprit",
+    "year": 2002,
+    "price": "$16751.83"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Xtra",
+    "year": 2001,
+    "price": "$13102.94"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 2004,
+    "price": "$19647.57"
+  },
+  {
+    "make": "Ford",
+    "model": "Escort",
+    "year": 1993,
+    "price": "$12174.91"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CLK-Class",
+    "year": 2003,
+    "price": "$12793.87"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Aspen",
+    "year": 2009,
+    "price": "$22776.89"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 1999,
+    "price": "$20570.80"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "year": 2002,
+    "price": "$15314.76"
+  },
+  {
+    "make": "BMW",
+    "model": "X6",
+    "year": 2008,
+    "price": "$19401.83"
+  },
+  {
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "year": 1987,
+    "price": "$17959.26"
+  },
+  {
+    "make": "Ford",
+    "model": "E150",
+    "year": 2003,
+    "price": "$15658.78"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "year": 2002,
+    "price": "$13190.81"
+  },
+  {
+    "make": "Mazda",
+    "model": "RX-7",
+    "year": 1995,
+    "price": "$20514.34"
+  },
+  {
+    "make": "GMC",
+    "model": "Acadia",
+    "year": 2011,
+    "price": "$17453.26"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "year": 2008,
+    "price": "$21040.56"
+  },
+  {
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "year": 2008,
+    "price": "$15971.68"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Truck",
+    "year": 1990,
+    "price": "$22041.08"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Bravada",
+    "year": 1993,
+    "price": "$17025.71"
+  },
+  {
+    "make": "Volvo",
+    "model": "S40",
+    "year": 2001,
+    "price": "$15482.36"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 1998,
+    "price": "$23851.11"
+  },
+  {
+    "make": "Ford",
+    "model": "ZX2",
+    "year": 2002,
+    "price": "$24114.19"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": 1995,
+    "price": "$21550.96"
+  },
+  {
+    "make": "Buick",
+    "model": "Skylark",
+    "year": 1989,
+    "price": "$19787.60"
+  },
+  {
+    "make": "Infiniti",
+    "model": "QX",
+    "year": 2006,
+    "price": "$11236.09"
+  },
+  {
+    "make": "Saab",
+    "model": "9000",
+    "year": 1999,
+    "price": "$13557.98"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvair",
+    "year": 1960,
+    "price": "$12126.46"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Continental",
+    "year": 2000,
+    "price": "$17593.69"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 2010,
+    "price": "$11877.90"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Aztek",
+    "year": 2004,
+    "price": "$12551.14"
+  },
+  {
+    "make": "Dodge",
+    "model": "Grand Caravan",
+    "year": 1994,
+    "price": "$13980.53"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Eos",
+    "year": 2010,
+    "price": "$18342.40"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Town Car",
+    "year": 1990,
+    "price": "$16233.39"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry Solara",
+    "year": 2006,
+    "price": "$11971.46"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2000,
+    "price": "$18068.86"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Azera",
+    "year": 2006,
+    "price": "$13769.05"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": 1991,
+    "price": "$20093.75"
+  },
+  {
+    "make": "Ford",
+    "model": "Windstar",
+    "year": 1998,
+    "price": "$13129.98"
+  },
+  {
+    "make": "Cadillac",
+    "model": "DeVille",
+    "year": 1996,
+    "price": "$11641.18"
+  },
+  {
+    "make": "Audi",
+    "model": "A8",
+    "year": 2011,
+    "price": "$21304.98"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2005,
+    "price": "$14487.61"
+  },
+  {
+    "make": "Ford",
+    "model": "F350",
+    "year": 2008,
+    "price": "$15406.25"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "year": 1995,
+    "price": "$12645.18"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caravan",
+    "year": 1998,
+    "price": "$18979.89"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Type 2",
+    "year": 1990,
+    "price": "$21359.55"
+  },
+  {
+    "make": "Buick",
+    "model": "Somerset",
+    "year": 1987,
+    "price": "$20821.83"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2007,
+    "price": "$17647.86"
+  },
+  {
+    "make": "Honda",
+    "model": "Ridgeline",
+    "year": 2011,
+    "price": "$10082.15"
+  },
+  {
+    "make": "Holden",
+    "model": "VS Commodore",
+    "year": 1997,
+    "price": "$19381.16"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "year": 1999,
+    "price": "$18479.01"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 1991,
+    "price": "$20242.45"
+  },
+  {
+    "make": "Acura",
+    "model": "ZDX",
+    "year": 2011,
+    "price": "$13192.92"
+  },
+  {
+    "make": "GMC",
+    "model": "Rally Wagon 2500",
+    "year": 1993,
+    "price": "$19391.73"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma Xtra",
+    "year": 1999,
+    "price": "$15571.95"
+  },
+  {
+    "make": "GMC",
+    "model": "1500 Club Coupe",
+    "year": 1997,
+    "price": "$19741.83"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird Formula",
+    "year": 1992,
+    "price": "$23660.90"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Scirocco",
+    "year": 1987,
+    "price": "$14977.11"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GTC",
+    "year": 2011,
+    "price": "$13615.17"
+  },
+  {
+    "make": "Acura",
+    "model": "RL",
+    "year": 2008,
+    "price": "$20251.54"
+  },
+  {
+    "make": "Mazda",
+    "model": "B-Series",
+    "year": 1990,
+    "price": "$18900.51"
+  },
+  {
+    "make": "Mazda",
+    "model": "Protege",
+    "year": 2000,
+    "price": "$13907.91"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Tredia",
+    "year": 1984,
+    "price": "$16495.46"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "year": 2012,
+    "price": "$20990.05"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "G-Series G30",
+    "year": 1995,
+    "price": "$11679.33"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "year": 1985,
+    "price": "$11537.51"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 2005,
+    "price": "$21255.24"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Wagon B150",
+    "year": 1993,
+    "price": "$21559.47"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "year": 2009,
+    "price": "$13183.63"
+  },
+  {
+    "make": "BMW",
+    "model": "Z3",
+    "year": 1997,
+    "price": "$10197.17"
+  },
+  {
+    "make": "GMC",
+    "model": "Safari",
+    "year": 1998,
+    "price": "$23279.45"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2010,
+    "price": "$19681.49"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "year": 1999,
+    "price": "$11593.59"
+  },
+  {
+    "make": "Mazda",
+    "model": "RX-7",
+    "year": 1990,
+    "price": "$22719.81"
+  },
+  {
+    "make": "Audi",
+    "model": "Allroad",
+    "year": 2001,
+    "price": "$15627.40"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1997,
+    "price": "$14895.46"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra",
+    "year": 2012,
+    "price": "$20475.49"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1994,
+    "price": "$19497.13"
+  },
+  {
+    "make": "Toyota",
+    "model": "Paseo",
+    "year": 1994,
+    "price": "$11812.69"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series",
+    "year": 2010,
+    "price": "$24209.64"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "year": 2007,
+    "price": "$23060.98"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2008,
+    "price": "$13709.13"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Sportvan G20",
+    "year": 1993,
+    "price": "$10399.21"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2010,
+    "price": "$23286.21"
+  },
+  {
+    "make": "Lincoln",
+    "model": "LS",
+    "year": 2001,
+    "price": "$13589.33"
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2010,
+    "price": "$14425.14"
+  },
+  {
+    "make": "Saturn",
+    "model": "VUE",
+    "year": 2002,
+    "price": "$18126.36"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 2000,
+    "price": "$21676.75"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Imperial",
+    "year": 1992,
+    "price": "$14602.38"
+  },
+  {
+    "make": "Audi",
+    "model": "R8",
+    "year": 2009,
+    "price": "$24935.25"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 1500",
+    "year": 1997,
+    "price": "$24609.67"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Discovery",
+    "year": 1999,
+    "price": "$22679.16"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2005,
+    "price": "$15508.21"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "year": 2004,
+    "price": "$18799.96"
+  },
+  {
+    "make": "GMC",
+    "model": "Terrain",
+    "year": 2010,
+    "price": "$23080.27"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK Series",
+    "year": 1997,
+    "price": "$12563.65"
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra",
+    "year": 2012,
+    "price": "$22592.38"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2001,
+    "price": "$14765.87"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2000,
+    "price": "$14506.35"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "G-Series 3500",
+    "year": 1998,
+    "price": "$19475.22"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2000,
+    "price": "$14785.93"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 1999,
+    "price": "$15271.59"
+  },
+  {
+    "make": "Maserati",
+    "model": "Spyder",
+    "year": 1990,
+    "price": "$21865.21"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2004,
+    "price": "$15190.33"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2007,
+    "price": "$21490.21"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Mark VII",
+    "year": 1984,
+    "price": "$23529.05"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "year": 1996,
+    "price": "$20273.87"
+  },
+  {
+    "make": "Buick",
+    "model": "Somerset",
+    "year": 1987,
+    "price": "$13986.24"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1996,
+    "price": "$12773.56"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2008,
+    "price": "$19999.40"
+  },
+  {
+    "make": "Subaru",
+    "model": "Justy",
+    "year": 1987,
+    "price": "$15667.63"
+  },
+  {
+    "make": "Toyota",
+    "model": "Celica",
+    "year": 1992,
+    "price": "$23319.19"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2004,
+    "price": "$23050.83"
+  },
+  {
+    "make": "Mercury",
+    "model": "Montego",
+    "year": 2006,
+    "price": "$13980.49"
+  },
+  {
+    "make": "Rolls-Royce",
+    "model": "Phantom",
+    "year": 2009,
+    "price": "$17240.57"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 1997,
+    "price": "$16514.52"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental",
+    "year": 2005,
+    "price": "$20424.42"
+  },
+  {
+    "make": "Nissan",
+    "model": "Quest",
+    "year": 2009,
+    "price": "$11939.57"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Navigator",
+    "year": 2011,
+    "price": "$12256.12"
+  },
+  {
+    "make": "Ford",
+    "model": "F150",
+    "year": 2002,
+    "price": "$22316.73"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2008,
+    "price": "$18786.81"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2003,
+    "price": "$16829.21"
+  },
+  {
+    "make": "Aston Martin",
+    "model": "V12 Vantage",
+    "year": 2012,
+    "price": "$19431.75"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2001,
+    "price": "$22637.99"
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2000,
+    "price": "$23482.30"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2003,
+    "price": "$10307.62"
+  },
+  {
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2011,
+    "price": "$24207.99"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "year": 2009,
+    "price": "$15685.24"
+  },
+  {
+    "make": "Smart",
+    "model": "Fortwo",
+    "year": 2012,
+    "price": "$22205.36"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1990,
+    "price": "$17239.42"
+  },
+  {
+    "make": "GMC",
+    "model": "Envoy XL",
+    "year": 2002,
+    "price": "$14341.07"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2009,
+    "price": "$13777.35"
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna",
+    "year": 2009,
+    "price": "$22676.72"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Town Car",
+    "year": 1991,
+    "price": "$22315.74"
+  },
+  {
+    "make": "GMC",
+    "model": "Jimmy",
+    "year": 1993,
+    "price": "$18434.85"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2011,
+    "price": "$17097.74"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "GTI",
+    "year": 1997,
+    "price": "$12170.60"
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 1998,
+    "price": "$21550.90"
+  },
+  {
+    "make": "Ford",
+    "model": "Econoline E350",
+    "year": 1999,
+    "price": "$17466.05"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1995,
+    "price": "$23995.54"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "year": 2001,
+    "price": "$16662.02"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "year": 2008,
+    "price": "$10426.00"
+  },
+  {
+    "make": "Mazda",
+    "model": "929",
+    "year": 1995,
+    "price": "$15631.72"
+  },
+  {
+    "make": "Honda",
+    "model": "Insight",
+    "year": 2006,
+    "price": "$21764.34"
+  },
+  {
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "year": 2009,
+    "price": "$11038.85"
+  },
+  {
+    "make": "GMC",
+    "model": "Vandura G3500",
+    "year": 1995,
+    "price": "$14481.43"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Am",
+    "year": 2000,
+    "price": "$13770.08"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2007,
+    "price": "$13369.43"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Town Car",
+    "year": 2010,
+    "price": "$16817.33"
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2012,
+    "price": "$10963.12"
+  },
+  {
+    "make": "Ford",
+    "model": "Tempo",
+    "year": 1988,
+    "price": "$16384.70"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio",
+    "year": 2012,
+    "price": "$11315.16"
+  },
+  {
+    "make": "Ford",
+    "model": "Freestyle",
+    "year": 2007,
+    "price": "$13718.09"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Si",
+    "year": 2005,
+    "price": "$10010.51"
+  },
+  {
+    "make": "Ford",
+    "model": "E250",
+    "year": 2010,
+    "price": "$18753.11"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": 2007,
+    "price": "$13422.40"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 1998,
+    "price": "$22286.50"
+  },
+  {
+    "make": "Scion",
+    "model": "xB",
+    "year": 2008,
+    "price": "$21863.90"
+  },
+  {
+    "make": "Ford",
+    "model": "Aerostar",
+    "year": 1988,
+    "price": "$21547.17"
+  },
+  {
+    "make": "GMC",
+    "model": "Rally Wagon 2500",
+    "year": 1994,
+    "price": "$19692.53"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1965,
+    "price": "$24954.64"
+  },
+  {
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": 2009,
+    "price": "$18483.72"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana 2500",
+    "year": 2003,
+    "price": "$16190.54"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Genesis Coupe",
+    "year": 2013,
+    "price": "$17521.69"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1979,
+    "price": "$21822.03"
+  },
+  {
+    "make": "Buick",
+    "model": "Terraza",
+    "year": 2006,
+    "price": "$18866.41"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird",
+    "year": 1989,
+    "price": "$17769.47"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1988,
+    "price": "$13149.32"
+  },
+  {
+    "make": "Suzuki",
+    "model": "SJ 410",
+    "year": 1986,
+    "price": "$11403.83"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 1997,
+    "price": "$14490.18"
+  },
+  {
+    "make": "Acura",
+    "model": "Legend",
+    "year": 1989,
+    "price": "$16023.61"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio",
+    "year": 2013,
+    "price": "$19732.71"
+  },
+  {
+    "make": "Volvo",
+    "model": "240",
+    "year": 1993,
+    "price": "$19789.34"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 3500",
+    "year": 2008,
+    "price": "$20319.96"
+  },
+  {
+    "make": "Lotus",
+    "model": "Exige",
+    "year": 2011,
+    "price": "$14500.11"
+  },
+  {
+    "make": "Honda",
+    "model": "Insight",
+    "year": 2004,
+    "price": "$19731.55"
+  },
+  {
+    "make": "Nissan",
+    "model": "Xterra",
+    "year": 2005,
+    "price": "$16749.97"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "year": 2001,
+    "price": "$19815.73"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 1996,
+    "price": "$15910.36"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1999,
+    "price": "$16304.61"
+  },
+  {
+    "make": "Ford",
+    "model": "Probe",
+    "year": 1995,
+    "price": "$22155.68"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "year": 1995,
+    "price": "$20415.39"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": 1994,
+    "price": "$21751.75"
+  },
+  {
+    "make": "Scion",
+    "model": "tC",
+    "year": 2006,
+    "price": "$13830.44"
+  },
+  {
+    "make": "Volvo",
+    "model": "S80",
+    "year": 2005,
+    "price": "$17884.92"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1997,
+    "price": "$23722.02"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Challenger",
+    "year": 2003,
+    "price": "$10841.56"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caravan",
+    "year": 2001,
+    "price": "$14665.99"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2005,
+    "price": "$13199.38"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "year": 1998,
+    "price": "$20913.99"
+  },
+  {
+    "make": "Toyota",
+    "model": "Celica",
+    "year": 1983,
+    "price": "$16379.86"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 1992,
+    "price": "$23079.08"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 2011,
+    "price": "$21242.41"
+  },
+  {
+    "make": "GMC",
+    "model": "1500",
+    "year": 1994,
+    "price": "$18281.51"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Montana",
+    "year": 2003,
+    "price": "$19385.18"
+  },
+  {
+    "make": "Cadillac",
+    "model": "STS",
+    "year": 2010,
+    "price": "$24902.68"
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier",
+    "year": 2008,
+    "price": "$11285.59"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": 2007,
+    "price": "$12332.19"
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2009,
+    "price": "$15698.47"
+  },
+  {
+    "make": "Infiniti",
+    "model": "G",
+    "year": 1993,
+    "price": "$11825.93"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2005,
+    "price": "$16177.83"
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 1991,
+    "price": "$19742.61"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2006,
+    "price": "$13081.31"
+  },
+  {
+    "make": "Buick",
+    "model": "LaCrosse",
+    "year": 2009,
+    "price": "$24908.25"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "3000GT",
+    "year": 1992,
+    "price": "$17973.44"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1994,
+    "price": "$19804.62"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota",
+    "year": 1995,
+    "price": "$12974.37"
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger",
+    "year": 2008,
+    "price": "$18844.14"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio",
+    "year": 2003,
+    "price": "$22758.50"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1996,
+    "price": "$12906.00"
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango",
+    "year": 2012,
+    "price": "$14925.57"
+  },
+  {
+    "make": "Buick",
+    "model": "Skyhawk",
+    "year": 1986,
+    "price": "$24850.37"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 2011,
+    "price": "$21704.39"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "year": 1999,
+    "price": "$21359.36"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "year": 1994,
+    "price": "$18607.10"
+  },
+  {
+    "make": "Dodge",
+    "model": "Avenger",
+    "year": 2012,
+    "price": "$10806.06"
+  },
+  {
+    "make": "Ford",
+    "model": "F150",
+    "year": 2012,
+    "price": "$10182.12"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4 M",
+    "year": 2006,
+    "price": "$10424.23"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": 2013,
+    "price": "$10109.62"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Caprice",
+    "year": 1991,
+    "price": "$24730.30"
+  },
+  {
+    "make": "Hyundai",
+    "model": "XG300",
+    "year": 2001,
+    "price": "$17281.12"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 1990,
+    "price": "$12674.75"
+  },
+  {
+    "make": "Mercury",
+    "model": "Sable",
+    "year": 1997,
+    "price": "$11859.96"
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q",
+    "year": 1999,
+    "price": "$23235.28"
+  },
+  {
+    "make": "Mazda",
+    "model": "MPV",
+    "year": 1989,
+    "price": "$10809.64"
+  },
+  {
+    "make": "BMW",
+    "model": "545",
+    "year": 2005,
+    "price": "$24924.09"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 1999,
+    "price": "$21435.80"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Sportvan G20",
+    "year": 1995,
+    "price": "$18807.31"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "year": 2012,
+    "price": "$24627.62"
+  },
+  {
+    "make": "Audi",
+    "model": "Coupe Quattro",
+    "year": 1991,
+    "price": "$17983.66"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2006,
+    "price": "$23764.45"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Regency",
+    "year": 1997,
+    "price": "$16870.86"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2011,
+    "price": "$23836.60"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cavalier",
+    "year": 1994,
+    "price": "$11783.30"
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": 2011,
+    "price": "$16752.36"
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco",
+    "year": 1994,
+    "price": "$10772.48"
+  },
+  {
+    "make": "GMC",
+    "model": "Canyon",
+    "year": 2008,
+    "price": "$19861.29"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan",
+    "year": 2010,
+    "price": "$14582.16"
+  },
+  {
+    "make": "Lexus",
+    "model": "IS-F",
+    "year": 2010,
+    "price": "$15772.70"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": 2004,
+    "price": "$15267.24"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Equus",
+    "year": 2012,
+    "price": "$19009.59"
+  },
+  {
+    "make": "GMC",
+    "model": "Savana 3500",
+    "year": 1997,
+    "price": "$21290.82"
+  },
+  {
+    "make": "Porsche",
+    "model": "Panamera",
+    "year": 2010,
+    "price": "$18609.17"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "year": 2003,
+    "price": "$18970.58"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Bravada",
+    "year": 1993,
+    "price": "$10506.99"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Lumina",
+    "year": 1996,
+    "price": "$10503.31"
+  },
+  {
+    "make": "Ford",
+    "model": "Thunderbird",
+    "year": 2002,
+    "price": "$12910.69"
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 1985,
+    "price": "$10603.77"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2003,
+    "price": "$21323.04"
+  },
+  {
+    "make": "Infiniti",
+    "model": "G37",
+    "year": 2009,
+    "price": "$11089.30"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1987,
+    "price": "$24222.07"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Suburban 1500",
+    "year": 1992,
+    "price": "$18702.14"
+  },
+  {
+    "make": "Volvo",
+    "model": "850",
+    "year": 1997,
+    "price": "$17273.09"
+  },
+  {
+    "make": "Buick",
+    "model": "Park Avenue",
+    "year": 1995,
+    "price": "$20202.45"
+  },
+  {
+    "make": "Dodge",
+    "model": "Aspen",
+    "year": 1976,
+    "price": "$20816.69"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 1997,
+    "price": "$13230.78"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Cabriolet",
+    "year": 1988,
+    "price": "$24355.49"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "GTI",
+    "year": 1991,
+    "price": "$21927.71"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 1999,
+    "price": "$23563.19"
+  },
+  {
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2006,
+    "price": "$14997.66"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "year": 2004,
+    "price": "$21669.71"
+  },
+  {
+    "make": "Volvo",
+    "model": "S80",
+    "year": 2000,
+    "price": "$20410.90"
+  },
+  {
+    "make": "Lexus",
+    "model": "LX",
+    "year": 1997,
+    "price": "$21626.47"
+  },
+  {
+    "make": "GMC",
+    "model": "Jimmy",
+    "year": 2000,
+    "price": "$17650.02"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "year": 1999,
+    "price": "$20600.39"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": 2003,
+    "price": "$11557.07"
+  },
+  {
+    "make": "Toyota",
+    "model": "Celica",
+    "year": 2001,
+    "price": "$11206.71"
+  },
+  {
+    "make": "Ford",
+    "model": "Courier",
+    "year": 1987,
+    "price": "$18973.02"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "year": 1993,
+    "price": "$13558.18"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Aspen",
+    "year": 2009,
+    "price": "$22318.17"
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco II",
+    "year": 1987,
+    "price": "$13646.38"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "Sprinter",
+    "year": 2011,
+    "price": "$10213.92"
+  },
+  {
+    "make": "Ford",
+    "model": "Econoline E150",
+    "year": 2000,
+    "price": "$13786.39"
+  },
+  {
+    "make": "Audi",
+    "model": "S6",
+    "year": 1995,
+    "price": "$12823.19"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "year": 1998,
+    "price": "$24480.52"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "year": 1997,
+    "price": "$22895.85"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2001,
+    "price": "$10643.67"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 2010,
+    "price": "$24142.87"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "year": 2011,
+    "price": "$22399.43"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 3500",
+    "year": 1998,
+    "price": "$16801.48"
+  },
+  {
+    "make": "Toyota",
+    "model": "Avalon",
+    "year": 2012,
+    "price": "$20239.84"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": 2001,
+    "price": "$12931.79"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Truck",
+    "year": 1995,
+    "price": "$12498.76"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Murciélago",
+    "year": 2009,
+    "price": "$14408.20"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 1999,
+    "price": "$14618.49"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": 2012,
+    "price": "$21192.26"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 1995,
+    "price": "$23602.81"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 1500",
+    "year": 1999,
+    "price": "$10333.17"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "year": 1998,
+    "price": "$14694.66"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKS",
+    "year": 2013,
+    "price": "$18534.51"
+  },
+  {
+    "make": "Nissan",
+    "model": "280ZX",
+    "year": 1979,
+    "price": "$17614.47"
+  },
+  {
+    "make": "Cadillac",
+    "model": "Seville",
+    "year": 1992,
+    "price": "$18461.74"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 1982,
+    "price": "$15364.08"
+  },
+  {
+    "make": "Toyota",
+    "model": "Sequoia",
+    "year": 2006,
+    "price": "$10199.69"
+  },
+  {
+    "make": "Lexus",
+    "model": "GX",
+    "year": 2003,
+    "price": "$20983.84"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van B250",
+    "year": 1992,
+    "price": "$21157.73"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra",
+    "year": 2007,
+    "price": "$14965.60"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "year": 2002,
+    "price": "$17959.04"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-5",
+    "year": 1992,
+    "price": "$13403.51"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "year": 2002,
+    "price": "$21374.21"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cavalier",
+    "year": 1992,
+    "price": "$15677.10"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 1999,
+    "price": "$16172.04"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota Club",
+    "year": 1994,
+    "price": "$17777.07"
+  },
+  {
+    "make": "Suzuki",
+    "model": "XL-7",
+    "year": 2003,
+    "price": "$20586.00"
+  },
+  {
+    "make": "Ford",
+    "model": "Windstar",
+    "year": 1997,
+    "price": "$21397.77"
+  },
+  {
+    "make": "Mercury",
+    "model": "Topaz",
+    "year": 1986,
+    "price": "$20629.93"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firebird",
+    "year": 1968,
+    "price": "$19936.61"
+  },
+  {
+    "make": "Lexus",
+    "model": "LS",
+    "year": 2009,
+    "price": "$10026.66"
+  },
+  {
+    "make": "Mazda",
+    "model": "B-Series",
+    "year": 2001,
+    "price": "$18960.77"
+  },
+  {
+    "make": "Volvo",
+    "model": "C70",
+    "year": 2011,
+    "price": "$19634.09"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio",
+    "year": 2007,
+    "price": "$10461.94"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Bravada",
+    "year": 2003,
+    "price": "$17026.34"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Sunfire",
+    "year": 1997,
+    "price": "$19694.47"
+  },
+  {
+    "make": "Toyota",
+    "model": "Celica",
+    "year": 2005,
+    "price": "$23127.68"
+  },
+  {
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "year": 2008,
+    "price": "$13042.44"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "year": 2004,
+    "price": "$15969.11"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Sebring",
+    "year": 2005,
+    "price": "$20420.24"
+  },
+  {
+    "make": "Infiniti",
+    "model": "G",
+    "year": 1996,
+    "price": "$19929.26"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XK",
+    "year": 2009,
+    "price": "$19002.12"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "year": 1996,
+    "price": "$13283.57"
+  },
+  {
+    "make": "Mercury",
+    "model": "Sable",
+    "year": 1992,
+    "price": "$11202.12"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "year": 1999,
+    "price": "$23912.35"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2012,
+    "price": "$20611.80"
+  },
+  {
+    "make": "Saturn",
+    "model": "VUE",
+    "year": 2007,
+    "price": "$23546.95"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tracker",
+    "year": 1999,
+    "price": "$20778.64"
+  },
+  {
+    "make": "Porsche",
+    "model": "944",
+    "year": 1988,
+    "price": "$13103.41"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Diamante",
+    "year": 1997,
+    "price": "$21422.10"
+  },
+  {
+    "make": "Subaru",
+    "model": "XT",
+    "year": 1991,
+    "price": "$23814.36"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60",
+    "year": 2010,
+    "price": "$23018.48"
+  },
+  {
+    "make": "Ford",
+    "model": "F350",
+    "year": 2010,
+    "price": "$10890.37"
+  },
+  {
+    "make": "Dodge",
+    "model": "Caliber",
+    "year": 2012,
+    "price": "$22829.51"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Endeavor",
+    "year": 2005,
+    "price": "$11184.73"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": 2012,
+    "price": "$21905.17"
+  },
+  {
+    "make": "Aston Martin",
+    "model": "V8 Vantage S",
+    "year": 2011,
+    "price": "$10491.97"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKT",
+    "year": 2012,
+    "price": "$12549.91"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Monte Carlo",
+    "year": 2003,
+    "price": "$17207.40"
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco",
+    "year": 1996,
+    "price": "$15073.64"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": 2005,
+    "price": "$18582.73"
+  },
+  {
+    "make": "Maybach",
+    "model": "62",
+    "year": 2005,
+    "price": "$14398.06"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1996,
+    "price": "$20078.27"
+  },
+  {
+    "make": "Cadillac",
+    "model": "XLR",
+    "year": 2004,
+    "price": "$16180.24"
+  },
+  {
+    "make": "Honda",
+    "model": "Fit",
+    "year": 2008,
+    "price": "$24037.93"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2011,
+    "price": "$21482.48"
+  },
+  {
+    "make": "Dodge",
+    "model": "Durango",
+    "year": 2001,
+    "price": "$14542.39"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 1987,
+    "price": "$10504.20"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cavalier",
+    "year": 1994,
+    "price": "$23496.63"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "year": 2001,
+    "price": "$15281.56"
+  },
+  {
+    "make": "Volvo",
+    "model": "S80",
+    "year": 2006,
+    "price": "$14380.00"
+  },
+  {
+    "make": "Audi",
+    "model": "S8",
+    "year": 2008,
+    "price": "$17465.46"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 1993,
+    "price": "$11014.48"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Grand Voyager",
+    "year": 2000,
+    "price": "$23396.20"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Trans Sport",
+    "year": 1996,
+    "price": "$15383.88"
+  },
+  {
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2004,
+    "price": "$22202.29"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2009,
+    "price": "$22446.25"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 1993,
+    "price": "$23600.84"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental Super",
+    "year": 2010,
+    "price": "$23904.66"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": 2012,
+    "price": "$17862.12"
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q",
+    "year": 2004,
+    "price": "$13876.41"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2003,
+    "price": "$18522.57"
+  },
+  {
+    "make": "MINI",
+    "model": "Cooper Clubman",
+    "year": 2012,
+    "price": "$11665.04"
+  },
+  {
+    "make": "Kia",
+    "model": "Rio",
+    "year": 2005,
+    "price": "$20412.27"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 1982,
+    "price": "$19085.63"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "year": 1997,
+    "price": "$10239.57"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": 2002,
+    "price": "$16206.33"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Concorde",
+    "year": 2000,
+    "price": "$13127.71"
+  },
+  {
+    "make": "Acura",
+    "model": "SLX",
+    "year": 1999,
+    "price": "$14424.51"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvair 500",
+    "year": 1963,
+    "price": "$12282.37"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CL65 AMG",
+    "year": 2009,
+    "price": "$15810.64"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "98",
+    "year": 1993,
+    "price": "$20968.95"
+  },
+  {
+    "make": "Ford",
+    "model": "Probe",
+    "year": 1991,
+    "price": "$15542.39"
+  },
+  {
+    "make": "Geo",
+    "model": "Metro",
+    "year": 1995,
+    "price": "$13299.55"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1973,
+    "price": "$23284.62"
+  },
+  {
+    "make": "MINI",
+    "model": "Cooper Clubman",
+    "year": 2012,
+    "price": "$19443.42"
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition EL",
+    "year": 2007,
+    "price": "$23825.66"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 3500",
+    "year": 2002,
+    "price": "$24757.64"
+  },
+  {
+    "make": "Porsche",
+    "model": "944",
+    "year": 1983,
+    "price": "$22541.05"
+  },
+  {
+    "make": "Audi",
+    "model": "riolet",
+    "year": 1995,
+    "price": "$19681.78"
+  },
+  {
+    "make": "Saab",
+    "model": "9-3",
+    "year": 2012,
+    "price": "$16530.97"
+  },
+  {
+    "make": "GMC",
+    "model": "Sonoma",
+    "year": 1997,
+    "price": "$24215.99"
+  },
+  {
+    "make": "Ford",
+    "model": "F250",
+    "year": 2012,
+    "price": "$20372.92"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "year": 2002,
+    "price": "$19584.42"
+  },
+  {
+    "make": "Citroën",
+    "model": "CX",
+    "year": 1974,
+    "price": "$18458.99"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "L300",
+    "year": 1987,
+    "price": "$19897.50"
+  },
+  {
+    "make": "Acura",
+    "model": "Integra",
+    "year": 1998,
+    "price": "$22005.84"
+  },
+  {
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "year": 2007,
+    "price": "$23307.86"
+  },
+  {
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "year": 2008,
+    "price": "$20738.82"
+  },
+  {
+    "make": "Infiniti",
+    "model": "J",
+    "year": 1993,
+    "price": "$24813.37"
+  },
+  {
+    "make": "Pontiac",
+    "model": "GTO",
+    "year": 1974,
+    "price": "$22804.24"
+  },
+  {
+    "make": "Oldsmobile",
+    "model": "Achieva",
+    "year": 1997,
+    "price": "$20140.82"
+  },
+  {
+    "make": "Saab",
+    "model": "900",
+    "year": 1997,
+    "price": "$12356.83"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2008,
+    "price": "$12727.83"
+  },
+  {
+    "make": "GMC",
+    "model": "3500",
+    "year": 1992,
+    "price": "$18439.32"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Ascender",
+    "year": 2007,
+    "price": "$22572.39"
+  },
+  {
+    "make": "GMC",
+    "model": "Suburban 2500",
+    "year": 1995,
+    "price": "$16238.73"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2009,
+    "price": "$15598.81"
+  },
+  {
+    "make": "Volvo",
+    "model": "XC70",
+    "year": 2007,
+    "price": "$23883.91"
+  },
+  {
+    "make": "Ford",
+    "model": "F-Series Super Duty",
+    "year": 2008,
+    "price": "$22421.14"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Firefly",
+    "year": 1986,
+    "price": "$20875.30"
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": 2010,
+    "price": "$17323.15"
+  },
+  {
+    "make": "Lexus",
+    "model": "SC",
+    "year": 2000,
+    "price": "$11885.33"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2006,
+    "price": "$21669.19"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Corrado",
+    "year": 1991,
+    "price": "$13382.38"
+  },
+  {
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 1989,
+    "price": "$16047.34"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 2500 Club",
+    "year": 1999,
+    "price": "$22815.42"
+  },
+  {
+    "make": "Jeep",
+    "model": "Commander",
+    "year": 2009,
+    "price": "$12572.00"
+  },
+  {
+    "make": "Saab",
+    "model": "9000",
+    "year": 1987,
+    "price": "$21752.43"
+  },
+  {
+    "make": "Volvo",
+    "model": "S80",
+    "year": 2001,
+    "price": "$11532.66"
+  },
+  {
+    "make": "Land Rover",
+    "model": "LR2",
+    "year": 2012,
+    "price": "$14875.71"
+  },
+  {
+    "make": "Ford",
+    "model": "F-Series",
+    "year": 1992,
+    "price": "$21367.20"
+  },
+  {
+    "make": "Ford",
+    "model": "Taurus",
+    "year": 1994,
+    "price": "$11675.95"
+  },
+  {
+    "make": "MINI",
+    "model": "Cooper",
+    "year": 2010,
+    "price": "$19138.99"
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon",
+    "year": 2001,
+    "price": "$21961.86"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 3500",
+    "year": 2000,
+    "price": "$20939.42"
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2006,
+    "price": "$12025.72"
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2002,
+    "price": "$14638.78"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2008,
+    "price": "$10745.72"
+  },
+  {
+    "make": "Land Rover",
+    "model": "LR2",
+    "year": 2008,
+    "price": "$22999.03"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cobalt",
+    "year": 2009,
+    "price": "$10568.47"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2005,
+    "price": "$24512.39"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2000,
+    "price": "$10472.35"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Challenger",
+    "year": 1999,
+    "price": "$23027.98"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": 1991,
+    "price": "$18946.18"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Colorado",
+    "year": 2009,
+    "price": "$16113.16"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 2500",
+    "year": 2002,
+    "price": "$15148.32"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram 1500 Club",
+    "year": 2001,
+    "price": "$15027.62"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Express 1500",
+    "year": 1999,
+    "price": "$21950.01"
+  },
+  {
+    "make": "Toyota",
+    "model": "Celica",
+    "year": 1999,
+    "price": "$17092.79"
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "year": 2002,
+    "price": "$12293.88"
+  },
+  {
+    "make": "Toyota",
+    "model": "Solara",
+    "year": 2003,
+    "price": "$21621.53"
+  },
+  {
+    "make": "Dodge",
+    "model": "Dakota",
+    "year": 2011,
+    "price": "$10702.74"
+  },
+  {
+    "make": "Pontiac",
+    "model": "GTO",
+    "year": 1968,
+    "price": "$16293.54"
+  },
+  {
+    "make": "Audi",
+    "model": "Cabriolet",
+    "year": 1998,
+    "price": "$12402.66"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "New Beetle",
+    "year": 2008,
+    "price": "$14185.55"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2008,
+    "price": "$22475.95"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "300D",
+    "year": 1993,
+    "price": "$21422.24"
+  },
+  {
+    "make": "Suzuki",
+    "model": "X-90",
+    "year": 1996,
+    "price": "$20448.49"
+  },
+  {
+    "make": "Aston Martin",
+    "model": "Rapide",
+    "year": 2010,
+    "price": "$23608.99"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Scirocco",
+    "year": 1986,
+    "price": "$13982.45"
+  },
+  {
+    "make": "Saab",
+    "model": "9-3",
+    "year": 2000,
+    "price": "$16459.33"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": 2000,
+    "price": "$22895.23"
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan",
+    "year": 2007,
+    "price": "$16660.76"
+  },
+  {
+    "make": "Porsche",
+    "model": "Boxster",
+    "year": 1997,
+    "price": "$15470.67"
+  },
+  {
+    "make": "Acura",
+    "model": "Integra",
+    "year": 1999,
+    "price": "$15454.63"
+  },
+  {
+    "make": "Buick",
+    "model": "Park Avenue",
+    "year": 1991,
+    "price": "$21099.95"
+  },
+  {
+    "make": "Ford",
+    "model": "GT500",
+    "year": 2009,
+    "price": "$14463.93"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series",
+    "year": 2011,
+    "price": "$21226.70"
+  },
+  {
+    "make": "Honda",
+    "model": "Insight",
+    "year": 2005,
+    "price": "$12176.09"
+  },
+  {
+    "make": "Infiniti",
+    "model": "I",
+    "year": 2002,
+    "price": "$21446.53"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Town Car",
+    "year": 1999,
+    "price": "$23971.46"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-6",
+    "year": 1991,
+    "price": "$16791.46"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram",
+    "year": 2011,
+    "price": "$23217.47"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2013,
+    "price": "$21021.23"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "rio",
+    "year": 1995,
+    "price": "$17586.69"
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2011,
+    "price": "$18925.77"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "GTI",
+    "year": 2010,
+    "price": "$16337.30"
+  },
+  {
+    "make": "Acura",
+    "model": "NSX",
+    "year": 2000,
+    "price": "$19104.44"
+  },
+  {
+    "make": "Mercury",
+    "model": "Sable",
+    "year": 2003,
+    "price": "$21407.13"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tiburon",
+    "year": 2003,
+    "price": "$16760.95"
+  },
+  {
+    "make": "Buick",
+    "model": "Park Avenue",
+    "year": 1995,
+    "price": "$18941.58"
+  },
+  {
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "year": 2008,
+    "price": "$13249.52"
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": "$20714.80"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKS",
+    "year": 2011,
+    "price": "$13835.31"
+  },
+  {
+    "make": "Maybach",
+    "model": "62",
+    "year": 2004,
+    "price": "$17688.73"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1985,
+    "price": "$24663.22"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 1999,
+    "price": "$15290.18"
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2006,
+    "price": "$23620.14"
+  },
+  {
+    "make": "Nissan",
+    "model": "240SX",
+    "year": 1996,
+    "price": "$10940.20"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Bonneville",
+    "year": 2003,
+    "price": "$14409.31"
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q",
+    "year": 1997,
+    "price": "$23234.73"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "year": 2009,
+    "price": "$11886.65"
+  },
+  {
+    "make": "Acura",
+    "model": "SLX",
+    "year": 1996,
+    "price": "$24830.88"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental",
+    "year": 2008,
+    "price": "$11317.80"
+  },
+  {
+    "make": "Dodge",
+    "model": "Ram Van 1500",
+    "year": 1996,
+    "price": "$24613.40"
+  },
+  {
+    "make": "Honda",
+    "model": "Prelude",
+    "year": 2000,
+    "price": "$15525.29"
+  },
+  {
+    "make": "Acura",
+    "model": "Legend",
+    "year": 1993,
+    "price": "$22502.40"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "CL-Class",
+    "year": 2012,
+    "price": "$16148.61"
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental Flying Spur",
+    "year": 2011,
+    "price": "$10391.56"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Avalanche",
+    "year": 2011,
+    "price": "$14755.24"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 1996,
+    "price": "$18593.69"
+  },
+  {
+    "make": "Buick",
+    "model": "LaCrosse",
+    "year": 2006,
+    "price": "$13800.56"
+  },
+  {
+    "make": "Nissan",
+    "model": "Maxima",
+    "year": 2003,
+    "price": "$23712.73"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 1992,
+    "price": "$23288.49"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "R32",
+    "year": 2004,
+    "price": "$18194.71"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4",
+    "year": 2008,
+    "price": "$13353.75"
+  },
+  {
+    "make": "Lincoln",
+    "model": "Blackwood",
+    "year": 2003,
+    "price": "$24294.52"
+  },
+  {
+    "make": "BMW",
+    "model": "Z4 M",
+    "year": 2009,
+    "price": "$21403.88"
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2006,
+    "price": "$24641.98"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60",
+    "year": 2013,
+    "price": "$22598.89"
+  },
+  {
+    "make": "Maserati",
+    "model": "Quattroporte",
+    "year": 1984,
+    "price": "$23956.27"
+  },
+  {
+    "make": "Mercury",
+    "model": "Cougar",
+    "year": 1991,
+    "price": "$22208.56"
+  },
+  {
+    "make": "Spyker",
+    "model": "C8",
+    "year": 2005,
+    "price": "$21585.63"
+  },
+  {
+    "make": "Isuzu",
+    "model": "Oasis",
+    "year": 1999,
+    "price": "$14176.27"
+  },
+  {
+    "make": "Mercury",
+    "model": "Topaz",
+    "year": 1986,
+    "price": "$11433.42"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Grand Voyager",
+    "year": 1994,
+    "price": "$16091.88"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XJ Series",
+    "year": 2002,
+    "price": "$13952.98"
+  },
+  {
+    "make": "Pontiac",
+    "model": "Grand Prix",
+    "year": 1984,
+    "price": "$19882.87"
+  },
+  {
+    "make": "Honda",
+    "model": "S2000",
+    "year": 2008,
+    "price": "$18526.71"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XF",
+    "year": 2011,
+    "price": "$20387.04"
+  },
+  {
+    "make": "Daewoo",
+    "model": "Leganza",
+    "year": 1999,
+    "price": "$22783.18"
+  },
+  {
+    "make": "Nissan",
+    "model": "Xterra",
+    "year": 2009,
+    "price": "$24975.93"
+  },
+  {
+    "make": "Ford",
+    "model": "Thunderbird",
+    "year": 1989,
+    "price": "$15195.94"
+  },
+  {
+    "make": "Jeep",
+    "model": "Liberty",
+    "year": 2005,
+    "price": "$15538.09"
+  },
+  {
+    "make": "Acura",
+    "model": "NSX",
+    "year": 1999,
+    "price": "$19321.94"
+  },
+  {
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "year": 2009,
+    "price": "$20404.11"
+  },
+  {
+    "make": "Acura",
+    "model": "MDX",
+    "year": 2006,
+    "price": "$23572.93"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2004,
+    "price": "$15111.70"
+  },
+  {
+    "make": "Plymouth",
+    "model": "Grand Voyager",
+    "year": 1996,
+    "price": "$19259.32"
+  },
+  {
+    "make": "Toyota",
+    "model": "MR2",
+    "year": 1987,
+    "price": "$14335.25"
+  },
+  {
+    "make": "BMW",
+    "model": "5 Series",
+    "year": 2001,
+    "price": "$18067.26"
+  },
+  {
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2004,
+    "price": "$21112.85"
+  },
+  {
+    "make": "Acura",
+    "model": "Legend",
+    "year": 1994,
+    "price": "$14752.35"
+  },
+  {
+    "make": "Ford",
+    "model": "Crown Victoria",
+    "year": 2004,
+    "price": "$13687.76"
+  },
+  {
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 1992,
+    "price": "$18616.68"
+  },
+  {
+    "make": "Maserati",
+    "model": "Quattroporte",
+    "year": 2009,
+    "price": "$15673.83"
+  },
+  {
+    "make": "Mercury",
+    "model": "Grand Marquis",
+    "year": 2009,
+    "price": "$13868.34"
+  },
+  {
+    "make": "Aston Martin",
+    "model": "DB9",
+    "year": 2005,
+    "price": "$20787.31"
+  },
+  {
+    "make": "BMW",
+    "model": "7 Series",
+    "year": 2009,
+    "price": "$13413.33"
+  },
+  {
+    "make": "Jeep",
+    "model": "Comanche",
+    "year": 1992,
+    "price": "$21631.87"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": 2011,
+    "price": "$23261.97"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "M-Class",
+    "year": 2001,
+    "price": "$13093.46"
+  },
+  {
+    "make": "Volvo",
+    "model": "960",
+    "year": 1996,
+    "price": "$10515.30"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2002,
+    "price": "$14876.67"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SLS AMG",
+    "year": 2012,
+    "price": "$12218.96"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "SL-Class",
+    "year": 1995,
+    "price": "$14302.69"
+  },
+  {
+    "make": "Saab",
+    "model": "9-2X",
+    "year": 2005,
+    "price": "$12120.46"
+  },
+  {
+    "make": "Kia",
+    "model": "Rondo",
+    "year": 2008,
+    "price": "$13256.57"
+  }
+]
