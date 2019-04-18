@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Reactive.Linq;
-using System.Windows.Controls;
+﻿using System.Windows.Controls;
 using desktop_example.Pages;
 
 namespace desktop_example_classic.Pages
@@ -11,23 +8,38 @@ namespace desktop_example_classic.Pages
     /// </summary>
     public partial class SearchPage : UserControl
     {
+        private string _lastSearchToken;
+
         public SearchPage()
         {
             InitializeComponent();
-            Observable.FromEventPattern(SearchBox, nameof(SearchBox.TextChanged))
-                .Select(_ => SearchBox.Text)
-                .Where(newSearchToken => newSearchToken.Length > 2)
-                .Throttle(TimeSpan.FromSeconds(0.5))
-                .DistinctUntilChanged()
-                .Select(searchToken => SearchService.SearchAsync(searchToken))
-                .Switch()
-                .ObserveOnDispatcher()
-                .Subscribe(result =>
-                {
-                    var (products, stamp) = result;
-                    ProductsList.ItemsSource = products;
-                    TimeBlock.Text = stamp.ToString();
-                });
+            SearchBox.TextChanged += OnSearchTextChanged;
+        }
+
+        private async void OnSearchTextChanged(object sender, TextChangedEventArgs textChangedEventArgs)
+        {
+            var canditateSearchTerm = SearchBox.Text;
+            if (canditateSearchTerm.Length < 3)
+            {
+                return;
+            }
+
+            if (_lastSearchToken == canditateSearchTerm)
+            {
+                return;
+            }
+
+            try
+            {
+                _lastSearchToken = canditateSearchTerm;
+                var (products, stamp) = await SearchService.SearchAsync(_lastSearchToken);
+                ProductsList.ItemsSource = products;
+                TimeBlock.Text = stamp.ToString();
+            }
+            catch
+            {
+
+            }
         }
     }
 }
